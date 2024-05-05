@@ -32,5 +32,5 @@ Todas as telas do Sistema possuem as funcionalidades de um CRUD (Create, Readme,
 ![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/BIBLIOTECA%201.PNG)
 
 # Estrutura de Pastas no Projeto:
-![image](https://user-images.githubusercontent.com/53703505/144062524-3d4c67bd-3dcb-4d47-9c23-12f46515b037.png)
+![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/BIBLIOTECAS%202.PNG)
 
