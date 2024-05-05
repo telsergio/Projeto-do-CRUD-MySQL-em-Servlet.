@@ -2,7 +2,7 @@
 Neste repositório serão incluídas todas as etapas para a criação de um sistema de controle de Ordens de Serviço com sistema de login e verificação de nível de usuário logado dentro do sistema, além de prover acesso à emissão de relatórios das ordens de serviços geradas.
 
 DER - DIAGRAMA ENTIDADE RELACIONAMENTO DA BASE DE DADOS
-![image](https://user-images.githubusercontent.com/53703505/126907238-5e303c94-c537-4061-ad46-25a3a6d28c94.png)
+![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/DIAGRAMA%20RELACIONAL.PNG)
 
 ATUALIZAÇÃO DA TABELA OREDEM_SERVIÇO
 ![image](https://user-images.githubusercontent.com/53703505/144061610-441e43c0-f493-422c-b385-521e8ac7f8c0.png)
