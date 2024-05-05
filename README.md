@@ -14,7 +14,7 @@ ATUALIZAÇÃO DA TABELA OREDEM_SERVIÇO
 ![image](https://user-images.githubusercontent.com/53703505/144060780-ee4b4f0e-716a-43ae-9924-e16863812746.png)
 
 ## ==> TelaPrincipal
-![image](https://user-images.githubusercontent.com/53703505/144060873-63189770-f35e-42c1-9aed-97772ce295be.png)
+![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/TELA%20PRINCIPAL.PNG)
 
 ## ==> TelaUsuarios
 ![image](https://user-images.githubusercontent.com/53703505/144061109-5ff64ae2-43d8-48c8-a9ff-f301242a0d42.png)
