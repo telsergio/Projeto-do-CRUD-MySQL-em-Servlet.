@@ -11,7 +11,7 @@ ATUALIZAÇÃO DA TABELA OREDEM_SERVIÇO
 
 # TELAS CRIADAS NO SISTEMA CRUD
 ## ==> TelaLogin
-![image](https://user-images.githubusercontent.com/53703505/144060780-ee4b4f0e-716a-43ae-9924-e16863812746.png)
+![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/tela%20%20loggin.PNG)
 
 ## ==> TelaPrincipal
 ![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/TELA%20PRINCIPAL.PNG)
