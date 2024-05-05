@@ -29,7 +29,7 @@ ATUALIZAÇÃO DA TABELA OREDEM_SERVIÇO
 Todas as telas do Sistema possuem as funcionalidades de um CRUD (Create, Readme, Update e Delete). A partir da tela OS, foram incluídas algumas funcionalidades como por exemplo a desabilitação/habilitação de alguns botões e pesquisa avançada por registros a partir de um caracter digitado.
 
 # Bibliotecas que foram utilizadas neste projeto:
-![image](https://user-images.githubusercontent.com/53703505/144062187-0d21cf68-b4ae-4eea-9930-b4770afa04d9.png)
+![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/BIBLIOTECA%201.PNG)
 
 # Estrutura de Pastas no Projeto:
 ![image](https://user-images.githubusercontent.com/53703505/144062524-3d4c67bd-3dcb-4d47-9c23-12f46515b037.png)
