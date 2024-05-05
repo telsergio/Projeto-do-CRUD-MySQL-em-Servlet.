@@ -23,7 +23,7 @@ ATUALIZAÇÃO DA TABELA OREDEM_SERVIÇO
 ![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/TELA%20CLIENTE.PNG)
 
 ## ==> TelaOS
-![image](https://user-images.githubusercontent.com/53703505/144061285-3ea9df10-60a5-42ed-8406-80b46fc00c4e.png)
+![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/TELA%20OS.PNG)
 
 
 Todas as telas do Sistema possuem as funcionalidades de um CRUD (Create, Readme, Update e Delete). A partir da tela OS, foram incluídas algumas funcionalidades como por exemplo a desabilitação/habilitação de alguns botões e pesquisa avançada por registros a partir de um caracter digitado.
