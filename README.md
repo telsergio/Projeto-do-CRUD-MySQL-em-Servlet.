@@ -5,7 +5,7 @@ DER - DIAGRAMA ENTIDADE RELACIONAMENTO DA BASE DE DADOS
 ![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/DIAGRAMA%20RELACIONAL.PNG)
 
 ATUALIZAÇÃO DA TABELA OREDEM_SERVIÇO
-![image](https://user-images.githubusercontent.com/53703505/144061610-441e43c0-f493-422c-b385-521e8ac7f8c0.png)
+![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/TABELA%20ATUALIZACAO%20SERVIICO2.PNG)
 
 
 
