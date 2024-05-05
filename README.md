@@ -20,7 +20,7 @@ ATUALIZAÇÃO DA TABELA OREDEM_SERVIÇO
 ![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/TELA%20USUARIO.PNG)
 
 ## ==> TelaClientes
-![image](https://user-images.githubusercontent.com/53703505/144061211-b2657af8-734e-4dbe-9d40-94687787b2a6.png)
+![image](https://github.com/telsergio/Projeto-do-CRUD-MySQL-em-Servlet./blob/main/TELA%20CLIENTE.PNG)
 
 ## ==> TelaOS
 ![image](https://user-images.githubusercontent.com/53703505/144061285-3ea9df10-60a5-42ed-8406-80b46fc00c4e.png)
